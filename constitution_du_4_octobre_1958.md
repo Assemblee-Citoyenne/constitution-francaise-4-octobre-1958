@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 26 juin 1992
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19920626)
+- Date de consolidation : 28 juillet 1993
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19930728)
 
 
 # Article PREAMBULE
@@ -579,13 +579,23 @@ Les magistrats du siège sont inamovibles.
 
 ## Article 65
 
-Le Conseil supérieur de la magistrature est présidé par le Président de la République. Le Ministre de la Justice en est le vice-président de droit. Il peut suppléer le Président de la République.
+Le Conseil supérieur de la magistrature est présidé par le Président de la République. Le ministre de la justice en est le vice-président de droit. Il peut suppléer le Président de la République.
 
-Le Conseil supérieur comprend en outre neuf membres désignés par le Président de la République dans les conditions fixées par une loi organique.
+Le Conseil supérieur de la magistrature comprend deux formations, l'une compétente à l'égard des magistrats du siège, l'autre à l'égard des magistrats du parquet.
 
-Le Conseil supérieur de la magistrature fait des propositions pour les nominations de magistrats du siège à la Cour de cassation et pour celles de Premier Président de cour d'appel. Il donne son avis dans les conditions fixées par la loi organique sur les propositions du Ministre de la Justice relatives aux nominations des autres magistrats du siège. Il est consulté sur les grâces dans les conditions fixées par une loi organique.
+La formation compétente à l'égard des magistrats du siège comprend, outre le Président de la République et le garde des sceaux, cinq magistrats du siège et un magistrat du parquet, un conseiller d'Etat, désigné par le Conseil d'Etat, et trois personnalités n'appartenant ni au Parlement ni à l'ordre judiciaire, désignées respectivement par le Président de la République, le président de l'Assemblée nationale et le président du Sénat.
 
-Le Conseil supérieur de la magistrature statue comme conseil de discipline des magistrats du siège. Il est alors présidé par le Premier Président de la Cour de cassation.
+La formation compétente à l'égard des magistrats du parquet comprend, outre le Président de la République et le garde des sceaux, cinq magistrats du parquet et un magistrat du siège, le conseiller d'Etat et les trois personnalités mentionnés à l'alinéa précédent.
+
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
+
+Elle statue comme conseil de discipline des magistrats du siège. Elle est alors présidée par le premier président de la Cour de cassation.
+
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis pour les nominations concernant les magistrats du parquet, à l'exception des emplois auxquels il est pourvu en conseil des ministres.
+
+Elle donne son avis sur les sanctions disciplinaires concernant les magistrats du parquet. Elle est alors présidée par le procureur général près la Cour de cassation.
+
+Une loi organique détermine les conditions d'application du présent article.
 
 
 ## Article 66
@@ -608,12 +618,34 @@ Une loi organique fixe la composition de la Haute Cour, les règles de son fonct
 
 ## Article 68
 
-Le Président de la République n'est responsable des actes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en accusation que par les deux assemblées statuant par un vote identique au scrutin public et à la majorité absolue des membres les composant ; il est jugé par la Haute Cour de justice.
-
-Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. La procédure définie ci-dessus leur est applicable ainsi qu'à leurs complices dans le cas de complot contre la sûreté de l'Etat. Dans les cas prévus au présent alinéa, la Haute Cour est liée par la définition des crimes et délits ainsi que par la détermination des peines telles qu'elles résultent des lois pénales en vigueur au moment où les faits ont été commis.
+Le Président de la République n'est responsable des actes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en accusation que par les deux assemblées statuant par un vote identique au scrutin public et à la majorité absolue des membres les composant ; il est jugé par la Haute Cour de Justice.
 
 
-# Titre X : Le Conseil économique et social.
+# Titre X : De la responsabilité pénale des membres du Gouvernement
+
+## Article 68-1
+
+Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis.
+
+Ils sont jugés par la Cour de justice de la République.
+
+La Cour de justice de la République est liée par la définition des crimes et délits ainsi que par la détermination des peines telles qu'elles résultent de la loi.
+
+
+## Article 68-2
+
+La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur sein et en nombre égal, par l'Assemblée nationale et par le Sénat après chaque renouvellement général ou partiel de ces assemblées et trois magistrats du siège à la Cour de cassation, dont l'un préside la Cour de justice de la République.
+
+Toute personne qui se prétend lésée par un crime ou un délit commis par un membre du Gouvernement dans l'exercice de ses fonctions peut porter plainte auprès d'une commission des requêtes.
+
+Cette commission ordonne soit le classement de la procédure, soit sa transmission au procureur général près la Cour de cassation aux fins de saisine de la Cour de justice de la République.
+
+Le procureur général près la Cour de cassation peut aussi saisir d'office la Cour de justice de la République sur avis conforme de la commission des requêtes.
+
+Une loi organique détermine les conditions d'application du présent article.
+
+
+# Titre XI : Le Conseil économique et social.
 
 ## Article 69
 
@@ -632,25 +664,25 @@ Le Conseil économique et social peut être également consulté par le Gouverne
 La composition du Conseil économique et social et ses règles de fonctionnement sont fixées par une loi organique.
 
 
-# Titre XI : Des collectivités territoriales.
+# Titre XII : Des collectivités territoriales
 
 ## Article 72
 
-Les collectivités territoriales de la République sont les communes, les départements, les territoires d'Outre-mer. Toute autre collectivité territoriale est créée par la loi.
+Les collectivités territoriales de la République sont les communes, les départements, les territoires d'outre-mer. Toute autre collectivité territoriale est créée par la loi.
 
 Ces collectivités s'administrent librement par des conseils élus et dans les conditions fixées par la loi.
 
-Dans les départements et les territoires, le délégué du Gouvernement à la charge des intérêts nationaux, du contrôle administratif et du respect des lois.
+Dans les départements et les territoires, le délégué du Gouvernement a la charge des intérêts nationaux, du contrôle administratif et du respect des lois.
 
 
 ## Article 73
 
-Le régime législatif et l'organisation administrative des départements d'Outre-mer peuvent faire l'objet de mesures d'adaptation nécessitées par leur situation particulière.
+Le régime législatif et l'organisation administrative des départements d'outre-mer peuvent faire l'objet de mesures d'adaptation nécessitées par leur situation particulière.
 
 
 ## Article 74
 
-Les territoires d'Outre-mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République.
+Les territoires d'outre-mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République.
 
 Les statuts des territoires d'outre-mer sont fixés par des lois organiques qui définissent, notamment, les compétences de leurs institutions propres, et modifiés, dans la même forme, après consultation de l'assemblée territoriale intéressée.
 
@@ -664,9 +696,9 @@ Les citoyens de la République qui n'ont pas le statut civil de droit commun, se
 
 ## Article 76
 
-Les territoires d'Outre-mer peuvent garder leur statut au sein de la République.
+Les territoires d'outre-mer peuvent garder leur statut au sein de la République.
 
-S'ils en manifestent la volonté par délibération de leur assemblée territoriale prise dans le délai prévu au premier alinéa de l'article 91, ils deviennent soit départements d'Outre-Mer de la République, soit, groupés ou non entre eux, Etats membres de la Communauté.
+S'ils en manifestent la volonté par délibération de leur assemblée territoriale prise dans le délai prévu au premier alinéa de l'article 91, ils deviennent soit départements d'outre-mer de la République, soit, groupés ou non entre eux, Etats membres de la Communauté.
 
 
 # Titre XIII : De la Communauté.
@@ -766,36 +798,36 @@ La situation de ces Etats au sein de la Communauté est déterminée par accords
 Les accords particuliers conclus pour l'application du présent titre sont approuvés par le Parlement de la République et l'assemblée législative intéressée.
 
 
-# Titre XIII : Des accords d'association.
+# Titre XIV : Des accords d'association.
 
 ## Article 88
 
 La République ou la Communauté peut conclure des accords avec des Etats qui désirent s'associer à elle pour développer leurs civilisations.
 
 
-# Titre XIV : Des Communautés européennes et de l'Union européenne.
+# Titre XV : Des Communautés européennes et de l'Union européenne
 
 ## Article 88-1
 
 La République participe aux Communautés européennes et à l'Union européenne, constituées d'Etats qui ont choisi librement, en vertu des traités qui les ont instituées, d'exercer en commun certaines de leurs compétences.
 
 
-# Titre XV : De la revision.
+# Titre XVI : De la révision
 
 ## Article 89
 
-L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier Ministre et aux membres du Parlement.
+L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier ministre et aux membres du Parlement.
 
-Le projet ou la proposition de révision doit être voté par les deux assemblées en termes identiques. La révision est définitive aprés avoir été approuvée par référendum.
+Le projet ou la proposition de révision doit être voté par les deux assemblées en termes identiques. La révision est définitive après avoir été approuvée par référendum.
 
-Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrés ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrés est celui de l'Assemblée Nationale.
+Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrès ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrès est celui de l'Assemblée nationale.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
 La forme républicaine du Gouvernement ne peut faire l'objet d'une révision.
 
 
-# Titre XVI : Dispositions transitoires.
+# Titre XVII : Dispositions transitoires.
 
 ## Article 90
 
@@ -820,9 +852,9 @@ Les autorités établies continueront d'exercer leurs fonctions dans ces Etats c
 
 Jusqu'à sa constitution définitive, le Sénat est formé par les membres en fonctions du Conseil de la République. Les lois organiques qui régleront la constitution définitive du Sénat devront intervenir avant le 31 juillet 1959.
 
-Les attributions conférées au Conseil constitutionnel par les articles 58 et 59 de la Constitution seront exercées, jusqu'à la mise en place de ce Conseil, par une commission composée du vice-président du Conseil d'Etat, président, du Premier Président de la Cour de cassation et du Premier Président de la Cour des comptes.
+Les attributions conférées au Conseil constitutionnel par les articles 58 et 59 de la Constitution seront exercées, jusqu'à la mise en place de ce Conseil, par une commission composée du vice-président du Conseil d'Etat, président, du Premier président de la Cour de cassation et du Premier président de la Cour des comptes.
 
-Les peuples des Etats membres de la Communauté continuent à être représentés au Parlement jusqu'à l'entrée en vigueur des mesures nécessaires à l'application du titre XII.
+Les peuples des Etats membres de la Communauté continuent à être représentés au Parlement jusqu'à l'entrée en vigueur des mesures nécessaires à l'application du titre XII [*nouveau titre XIII de la Constitution par l'effet de l'article 3 de la loi constitutionnelle n° 93-952 du 27 juillet 1993.*]
 
 
 ## Article 92
@@ -834,5 +866,12 @@ Pendant le délai prévu à l'alinéa 1er de l'article 91, le Gouvernement est a
 Pendant le même délai et dans les mêmes conditions, le Gouvernement pourra également prendre en toutes matières les mesures qu'il jugera nécessaires à la vie de la nation, à la protection des citoyens ou à la sauvegarde des libertés.
 
 La présente loi sera exécutée comme Constitution de la République et de la Communauté.
+
+
+## Article 93
+
+Les dispositions de l'article 65 et du titre X, dans leur rédaction issue de la loi constitutionnelle n° 93-952 du 27 juillet 1993, entreront en vigueur à la date de publication des lois organiques prises pour leur application.
+
+Les dispositions du titre X, dans leur rédaction issue de la loi constitutionnelle n° 93-952 du 27 juillet 1993, sont applicables aux faits commis avant son entrée en vigueur.
 
 

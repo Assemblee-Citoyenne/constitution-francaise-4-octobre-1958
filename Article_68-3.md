@@ -1,0 +1,1 @@
+Les dispositions du présent titre sont applicables aux faits commis avant son entrée en vigueur.

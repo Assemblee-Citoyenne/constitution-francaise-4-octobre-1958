@@ -1,3 +1,3 @@
-Les territoires d'Outre-mer peuvent garder leur statut au sein de la République.
+Les territoires d'outre-mer peuvent garder leur statut au sein de la République.
 
-S'ils en manifestent la volonté par délibération de leur assemblée territoriale prise dans le délai prévu au premier alinéa de l'article 91, ils deviennent soit départements d'Outre-Mer de la République, soit, groupés ou non entre eux, Etats membres de la Communauté.
+S'ils en manifestent la volonté par délibération de leur assemblée territoriale prise dans le délai prévu au premier alinéa de l'article 91, ils deviennent soit départements d'outre-mer de la République, soit, groupés ou non entre eux, Etats membres de la Communauté.

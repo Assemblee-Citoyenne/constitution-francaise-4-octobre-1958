@@ -1,8 +1,8 @@
-L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier Ministre et aux membres du Parlement.
+L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier ministre et aux membres du Parlement.
 
-Le projet ou la proposition de révision doit être voté par les deux assemblées en termes identiques. La révision est définitive aprés avoir été approuvée par référendum.
+Le projet ou la proposition de révision doit être voté par les deux assemblées en termes identiques. La révision est définitive après avoir été approuvée par référendum.
 
-Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrés ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrés est celui de l'Assemblée Nationale.
+Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrès ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrès est celui de l'Assemblée nationale.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 

@@ -1,12 +1,12 @@
 Constitution de 1958
 
-- Date de consolidation : 29 mars 2003
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20030329)
+- Date de consolidation : 2 mars 2005
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20050302)
 
 
 # Article PREAMBULE
 
-Le Peuple français proclame solennellement son attachement aux Droits de l'Homme et aux principes de la souveraineté nationale tels qu'ils sont définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946.
+Le Peuple français proclame solennellement son attachement aux Droits de l'Homme et aux principes de la souveraineté nationale tels qu'ils sont définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946, ainsi qu'aux droits et devoirs définis dans la Charte de l'environnement de 2004.
 
 En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d'outre-mer qui manifestent la volonté d'y adhérer des institutions nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique.
 
@@ -334,6 +334,8 @@ La loi détermine les principes fondamentaux :
 
 - de l'enseignement ;
 
+- de la préservation de l'environnement ;
+
 - du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 
 - du droit du travail, du droit syndical et de la sécurité sociale.
@@ -574,7 +576,7 @@ Le Conseil constitutionnel statue, en cas de contestation, sur la régularité d
 
 ## Article 60
 
-Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et en proclame les résultats.
+Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et au titre XV. Il en proclame les résultats.
 
 
 ## Article 61
@@ -856,6 +858,8 @@ La République peut conclure des accords avec des Etats qui désirent s'associer
 ## Article 88-1
 
 La République participe aux Communautés européennes et à l'Union européenne, constituées d'Etats qui ont choisi librement, en vertu des traités qui les ont instituées, d'exercer en commun certaines de leurs compétences.
+
+Elle peut participer à l'Union européenne dans les conditions prévues par le traité établissant une Constitution pour l'Europe signé le 29 octobre 2004.
 
 
 # Titre XVI : De la révision

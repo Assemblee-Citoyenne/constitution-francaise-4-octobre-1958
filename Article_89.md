@@ -6,4 +6,4 @@ Toutefois, le projet de révision n'est pas présenté au référendum lorsque l
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
-La forme républicaine du Gouvernement ne peut faire l'objet d'une revision.
+La forme républicaine du Gouvernement ne peut faire l'objet d'une révision.

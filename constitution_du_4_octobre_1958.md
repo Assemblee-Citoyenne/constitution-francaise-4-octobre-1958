@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 21 juillet 1998
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19980721)
+- Date de consolidation : 26 janvier 1999
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19990126)
 
 
 # Article PREAMBULE

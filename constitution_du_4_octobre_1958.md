@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 26 janvier 1999
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19990126)
+- Date de consolidation : 9 juillet 1999
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19990709)
 
 
 # Article PREAMBULE
@@ -41,10 +41,14 @@ Le suffrage peut être direct ou indirect dans les conditions prévues par la Co
 
 Sont électeurs, dans les conditions déterminées par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques.
 
+La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives.
+
 
 ## Article 4
 
 Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Ils doivent respecter les principes de la souveraineté nationale et de la démocratie.
+
+Ils contribuent à la mise en oeuvre du principe énoncé au dernier alinéa de l'article 3 dans les conditions déterminées par la loi.
 
 
 # Titre II : Le Président de la République
@@ -518,6 +522,11 @@ Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans l
 La République peut conclure avec les Etats européens qui sont liés par des engagements identiques aux siens en matière d'asile et de protection des Droits de l'homme et des libertés fondamentales, des accords déterminant leurs compétences respectives pour l'examen des demandes d'asile qui leur sont présentées.
 
 Toutefois, même si la demande n'entre pas dans leur compétence en vertu de ces accords, les autorités de la République ont toujours le droit de donner asile à tout étranger persécuté en raison de son action en faveur de la liberté ou qui sollicite la protection de la France pour un autre motif.
+
+
+## Article 53-2
+
+La République peut reconnaître la juridiction de la Cour pénale internationale dans les conditions prévues par le traité signé le 18 juillet 1998.
 
 
 ## Article 54

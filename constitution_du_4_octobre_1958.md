@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 19 juin 1976
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19760619)
+- Date de consolidation : 26 juin 1992
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19920626)
 
 
 # Article PREAMBULE
@@ -23,6 +23,8 @@ La Communauté est fondée sur l'égalité et la solidarité des peuples qui la 
 ## Article 2
 
 La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances.
+
+La langue de la République est le français.
 
 L'emblème national est le drapeau tricolore, bleu, blanc, rouge.
 
@@ -498,7 +500,7 @@ Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans l
 
 ## Article 54
 
-Si le Conseil Constitutionnel, saisi par le Président de la République, par le Premier Ministre ou par le Président de l'une ou l'autre assemblée, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de le ratifier ou de l'approuver ne peut intervenir qu'aprés la révision de la Constitution.
+Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
 
 
 ## Article 55
@@ -648,7 +650,11 @@ Le régime législatif et l'organisation administrative des départements d'Outr
 
 ## Article 74
 
-Les territoires d'Outre-mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République. Cette organisation est définie et modifiée par la loi aprés consultation de l'assemblée territoriale intéressée.
+Les territoires d'Outre-mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République.
+
+Les statuts des territoires d'outre-mer sont fixés par des lois organiques qui définissent, notamment, les compétences de leurs institutions propres, et modifiés, dans la même forme, après consultation de l'assemblée territoriale intéressée.
+
+Les autres modalités de leur organisation particulière sont définies et modifiées par la loi après consultation de l'assemblée territoriale intéressée.
 
 
 ## Article 75
@@ -767,7 +773,14 @@ Les accords particuliers conclus pour l'application du présent titre sont appro
 La République ou la Communauté peut conclure des accords avec des Etats qui désirent s'associer à elle pour développer leurs civilisations.
 
 
-# Titre XIV : De la revision.
+# Titre XIV : Des Communautés européennes et de l'Union européenne.
+
+## Article 88-1
+
+La République participe aux Communautés européennes et à l'Union européenne, constituées d'Etats qui ont choisi librement, en vertu des traités qui les ont instituées, d'exercer en commun certaines de leurs compétences.
+
+
+# Titre XV : De la revision.
 
 ## Article 89
 
@@ -779,6 +792,47 @@ Toutefois, le projet de révision n'est pas présenté au référendum lorsque l
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
-La forme républicaine du Gouvernement ne peut faire l'objet d'une revision.
+La forme républicaine du Gouvernement ne peut faire l'objet d'une révision.
+
+
+# Titre XVI : Dispositions transitoires.
+
+## Article 90
+
+La session ordinaire du Parlement est suspendue. Le mandat des membres de l'Assemblée nationale en fonctions viendra à expiration le jour de la réunion de l'Assemblée élue en vertu de la présente Constitution.
+
+Le Gouvernement, jusqu'à cette réunion, a seul autorité pour convoquer le Parlement.
+
+Le mandat des membres de l'Assemblée de l'Union française viendra à expiration en même temps que le mandat des membres de l'Assemblée nationale actuellement en fonctions.
+
+
+## Article 91
+
+Les institutions de la République prévues par la présente Constitution seront en place dans le délai de quatre mois à compter de sa promulgation.
+
+Ce délai est porté à six mois pour les institutions de la Communauté.
+
+Les pouvoirs du Président de la République en fonctions ne viendront à expiration que lors de la proclamation des résultats de l'élection prévue par les articles 6 et 7 de la présente Constitution.
+
+Les Etats membres de la Communauté participeront à cette première élection dans les conditions découlant de leur statut à la date de la promulgation de la Constitution.
+
+Les autorités établies continueront d'exercer leurs fonctions dans ces Etats conformément aux lois et règlements applicables au moment de l'entrée en vigueur de la Constitution jusqu'à la mise en place des autorités prévues par leur nouveau régime.
+
+Jusqu'à sa constitution définitive, le Sénat est formé par les membres en fonctions du Conseil de la République. Les lois organiques qui régleront la constitution définitive du Sénat devront intervenir avant le 31 juillet 1959.
+
+Les attributions conférées au Conseil constitutionnel par les articles 58 et 59 de la Constitution seront exercées, jusqu'à la mise en place de ce Conseil, par une commission composée du vice-président du Conseil d'Etat, président, du Premier Président de la Cour de cassation et du Premier Président de la Cour des comptes.
+
+Les peuples des Etats membres de la Communauté continuent à être représentés au Parlement jusqu'à l'entrée en vigueur des mesures nécessaires à l'application du titre XII.
+
+
+## Article 92
+
+Les mesures législatives nécessaires à la mise en place des institutions et, jusqu'à cette mise en place, au fonctionnement des pouvoirs publics seront prises en conseil des ministres, après avis du Conseil d'Etat, par ordonnance ayant force de loi.
+
+Pendant le délai prévu à l'alinéa 1er de l'article 91, le Gouvernement est autorisé à fixer par ordonnances ayant force de loi et prises en la même forme le régime électoral des assemblées prévues par la Constitution.
+
+Pendant le même délai et dans les mêmes conditions, le Gouvernement pourra également prendre en toutes matières les mesures qu'il jugera nécessaires à la vie de la nation, à la protection des citoyens ou à la sauvegarde des libertés.
+
+La présente loi sera exécutée comme Constitution de la République et de la Communauté.
 
 

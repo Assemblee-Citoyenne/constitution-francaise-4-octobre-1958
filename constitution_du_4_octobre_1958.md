@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 9 juillet 1999
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19990709)
+- Date de consolidation : 3 octobre 2000
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20001003)
 
 
 # Article PREAMBULE
@@ -62,7 +62,7 @@ Il est le garant de l'indépendance nationale, de l'intégrité du territoire et
 
 ## Article 6
 
-Le Président de la République est élu pour sept ans au suffrage universel direct.
+Le Président de la République est élu pour cinq ans au suffrage universel direct.
 
 Les modalités d'application du présent article sont fixées par une loi organique.
 

@@ -1,0 +1,1 @@
+Nul ne peut être condamné à la peine de mort.

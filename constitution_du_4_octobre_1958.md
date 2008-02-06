@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 5 février 2008
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20080205)
+- Date de consolidation : 6 février 2008
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20080206)
 
 
 # Article PREAMBULE
@@ -869,13 +869,6 @@ La République peut conclure des accords avec des Etats qui désirent s'associer
 
 
 # Titre XV : Des Communautés européennes et de l'Union européenne
-
-## Article 88-1
-
-La République participe aux Communautés européennes et à l'Union européenne, constituées d'Etats qui ont choisi librement, en vertu des traités qui les ont instituées, d'exercer en commun certaines de leurs compétences.
-
-Elle peut participer à l'Union européenne dans les conditions prévues par le traité établissant une Constitution pour l'Europe signé le 29 octobre 2004.
-
 
 # Titre XVI : De la révision
 

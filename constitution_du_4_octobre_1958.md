@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 6 février 2008
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20080206)
+- Date de consolidation : 25 juillet 2008
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=20080725)
 
 
 # Article PREAMBULE
@@ -14,6 +14,8 @@ En vertu de ces principes et de celui de la libre détermination des peuples, la
 # Article 1
 
 La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée.
+
+La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales.
 
 
 # Titre premier : De la souveraineté
@@ -41,14 +43,14 @@ Le suffrage peut être direct ou indirect dans les conditions prévues par la Co
 
 Sont électeurs, dans les conditions déterminées par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques.
 
-La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives.
-
 
 ## Article 4
 
 Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Ils doivent respecter les principes de la souveraineté nationale et de la démocratie.
 
-Ils contribuent à la mise en oeuvre du principe énoncé au dernier alinéa de l'article 3 dans les conditions déterminées par la loi.
+Ils contribuent à la mise en oeuvre du principe énoncé au second alinéa de l'article 1er dans les conditions déterminées par la loi.
+
+La loi garantit les expressions pluralistes des opinions et la participation équitable des partis et groupements politiques à la vie démocratique de la Nation.
 
 
 # Titre II : Le Président de la République
@@ -63,6 +65,8 @@ Il est le garant de l'indépendance nationale, de l'intégrité du territoire et
 ## Article 6
 
 Le Président de la République est élu pour cinq ans au suffrage universel direct.
+
+Nul ne peut exercer plus de deux mandats consécutifs.
 
 Les modalités d'application du présent article sont fixées par une loi organique.
 
@@ -113,11 +117,19 @@ Il peut, avant l'expiration de ce délai, demander au Parlement une nouvelle dé
 
 ## Article 11
 
-Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique ou sociale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
+Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique, sociale ou environnementale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
 
 Lorsque le référendum est organisé sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
 
-Lorsque le référendum a conclu à l'adoption du projet de loi, le Président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.
+Un référendum portant sur un objet mentionné au premier alinéa peut être organisé à l'initiative d'un cinquième des membres du Parlement, soutenue par un dixième des électeurs inscrits sur les listes électorales. Cette initiative prend la forme d'une proposition de loi et ne peut avoir pour objet l'abrogation d'une disposition législative promulguée depuis moins d'un an.
+
+Les conditions de sa présentation et celles dans lesquelles le Conseil constitutionnel contrôle le respect des dispositions de l'alinéa précédent sont déterminées par une loi organique.
+
+Si la proposition de loi n'a pas été examinée par les deux assemblées dans un délai fixé par la loi organique, le Président de la République la soumet au référendum.
+
+Lorsque la proposition de loi n'est pas adoptée par le peuple français, aucune nouvelle proposition de référendum portant sur le même sujet ne peut être présentée avant l'expiration d'un délai de deux ans suivant la date du scrutin.
+
+Lorsque le référendum a conclu à l'adoption du projet ou de la proposition de loi, le Président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.
 
 
 ## Article 12
@@ -140,6 +152,8 @@ Il nomme aux emplois civils et militaires de l'Etat.
 Les conseillers d'Etat, le grand chancelier de la Légion d'honneur, les ambassadeurs et envoyés extraordinaires, les conseillers maîtres à la Cour des comptes, les préfets, les représentants de l'Etat dans les collectivités d'outre-mer régies par l'article 74 et en Nouvelle-Calédonie, les officiers généraux, les recteurs des académies, les directeurs des administrations centrales, sont nommés en Conseil des ministres.
 
 Une loi organique détermine les autres emplois auxquels il est pourvu en conseil des ministres ainsi que les conditions dans lesquelles le pouvoir de nomination du Président de la République peut être par lui délégué pour être exercé en son nom.
+
+Une loi organique détermine les emplois ou fonctions, autres que ceux mentionnés au troisième alinéa, pour lesquels, en raison de leur importance pour la garantie des droits et libertés ou la vie économique et sociale de la Nation, le pouvoir de nomination du Président de la République s'exerce après avis public de la commission permanente compétente de chaque assemblée. Le Président de la République ne peut procéder à une nomination lorsque l'addition des votes négatifs dans chaque commission représente au moins trois cinquièmes des suffrages exprimés au sein des deux commissions. La loi détermine les commissions permanentes compétentes selon les emplois ou fonctions concernés.
 
 
 ## Article 14
@@ -164,17 +178,21 @@ Le Parlement se réunit de plein droit.
 
 L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs exceptionnels.
 
+Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
+
 
 ## Article 17
 
-Le Président de la République a le droit de faire grâce.
+Le Président de la République a le droit de faire grâce à titre individuel.
 
 
 ## Article 18
 
 Le Président de la République communique avec les deux Assemblées du Parlement par des messages qu'il fait lire et qui ne donnent lieu à aucun débat.
 
-Hors session, le Parlement est réuni spécialement à cet effet.
+Il peut prendre la parole devant le Parlement réuni à cet effet en Congrès. Sa déclaration peut donner lieu, hors sa présence, à un débat qui ne fait l'objet d'aucun vote.
+
+Hors session, les assemblées parlementaires sont réunies spécialement à cet effet.
 
 
 ## Article 19
@@ -222,18 +240,24 @@ Le remplacement des membres du Parlement a lieu conformément aux dispositions d
 
 ## Article 24
 
-Le Parlement comprend l'Assemblée nationale et le Sénat.
+Le Parlement vote la loi. Il contrôle l'action du Gouvernement. Il évalue les politiques publiques.
 
-Les députés à l'Assemblée nationale sont élus au suffrage direct.
+Il comprend l'Assemblée nationale et le Sénat.
 
-Le Sénat est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République. Les Français établis hors de France sont représentés au Sénat.
+Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage direct.
+
+Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République.
+
+Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.
 
 
 ## Article 25
 
 Une loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur indemnité, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités.
 
-Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement général ou partiel de l'assemblée à laquelle ils appartenaient.
+Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement général ou partiel de l'assemblée à laquelle ils appartenaient ou leur remplacement temporaire en cas d'acceptation par eux de fonctions gouvernementales.
+
+Une commission indépendante, dont la loi fixe la composition et les règles d'organisation et de fonctionnement, se prononce par un avis public sur les projets de texte et propositions de loi délimitant les circonscriptions pour l'élection des députés ou modifiant la répartition des sièges de députés ou de sénateurs.
 
 
 ## Article 26
@@ -304,54 +328,67 @@ Chaque Assemblée peut siéger en comité secret à la demande du Premier minist
 
 ## Article 34
 
-La loi est votée par le Parlement.
-
 La loi fixe les règles concernant :
 
-- les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens ;
+-les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; la liberté, le pluralisme et l'indépendance des médias ; les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens ;
 
-- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités ;
+-la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités ;
 
-- la détermination des crimes et délits ainsi que les peines qui leur sont applicables ; la procédure pénale ; l'amnistie ; la création de nouveaux ordres de juridiction et le statut des magistrats ;
+-la détermination des crimes et délits ainsi que les peines qui leur sont applicables ; la procédure pénale ; l'amnistie ; la création de nouveaux ordres de juridiction et le statut des magistrats ;
 
-- l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures ; le régime d'émission de la monnaie.
+-l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures ; le régime d'émission de la monnaie.
 
 La loi fixe également les règles concernant :
 
-- le régime électoral des assemblées parlementaires et des assemblées locales ;
+-le régime électoral des assemblées parlementaires, des assemblées locales et des instances représentatives des Français établis hors de France ainsi que les conditions d'exercice des mandats électoraux et des fonctions électives des membres des assemblées délibérantes des collectivités territoriales ;
 
-- la création de catégories d'établissements publics ;
+-la création de catégories d'établissements publics ;
 
-- les garanties fondamentales accordées aux fonctionnaires civils et militaires de l'Etat ;
+-les garanties fondamentales accordées aux fonctionnaires civils et militaires de l'Etat ;
 
-- les nationalisations d'entreprises et les transferts de propriété d'entreprises du secteur public au secteur privé.
+-les nationalisations d'entreprises et les transferts de propriété d'entreprises du secteur public au secteur privé.
 
 La loi détermine les principes fondamentaux :
 
-- de l'organisation générale de la Défense nationale ;
+-de l'organisation générale de la Défense nationale ;
 
-- de la libre administration des collectivités territoriales, de leurs compétences et de leurs ressources ;
+-de la libre administration des collectivités territoriales, de leurs compétences et de leurs ressources ;
 
-- de l'enseignement ;
+-de l'enseignement ;
 
-- de la préservation de l'environnement ;
+-de la préservation de l'environnement ;
 
-- du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
+-du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 
-- du droit du travail, du droit syndical et de la sécurité sociale.
+-du droit du travail, du droit syndical et de la sécurité sociale.
 
 Les lois de finances déterminent les ressources et les charges de l'Etat dans les conditions et sous les réserves prévues par une loi organique.
 
 Les lois de financement de la sécurité sociale déterminent les conditions générales de son équilibre financier et, compte tenu de leurs prévisions de recettes, fixent ses objectifs de dépenses, dans les conditions et sous les réserves prévues par une loi organique.
 
-Des lois de programme déterminent les objectifs de l'action économique et sociale de l'Etat.
+Des lois de programmation déterminent les objectifs de l'action de l'État.
+
+Les orientations pluriannuelles des finances publiques sont définies par des lois de programmation. Elles s'inscrivent dans l'objectif d'équilibre des comptes des administrations publiques.
 
 Les dispositions du présent article pourront être précisées et complétées par une loi organique.
+
+
+## Article 34-1
+
+Les assemblées peuvent voter des résolutions dans les conditions fixées par la loi organique.
+
+Sont irrecevables et ne peuvent être inscrites à l'ordre du jour les propositions de résolution dont le Gouvernement estime que leur adoption ou leur rejet serait de nature à mettre en cause sa responsabilité ou qu'elles contiennent des injonctions à son égard.
 
 
 ## Article 35
 
 La déclaration de guerre est autorisée par le Parlement.
+
+Le Gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l'étranger, au plus tard trois jours après le début de l'intervention. Il précise les objectifs poursuivis. Cette information peut donner lieu à un débat qui n'est suivi d'aucun vote.
+
+Lorsque la durée de l'intervention excède quatre mois, le Gouvernement soumet sa prolongation à l'autorisation du Parlement. Il peut demander à l'Assemblée nationale de décider en dernier ressort.
+
+Si le Parlement n'est pas en session à l'expiration du délai de quatre mois, il se prononce à l'ouverture de la session suivante.
 
 
 ## Article 36
@@ -377,7 +414,7 @@ La loi et le règlement peuvent comporter, pour un objet et une durée limités,
 
 Le Gouvernement peut, pour l'exécution de son programme, demander au Parlement l'autorisation de prendre par ordonnances, pendant un délai limité, des mesures qui sont normalement du domaine de la loi.
 
-Les ordonnances sont prises en Conseil des ministres après avis du Conseil d'Etat. Elles entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation.
+Les ordonnances sont prises en Conseil des ministres après avis du Conseil d'Etat. Elles entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation. Elles ne peuvent être ratifiées que de manière expresse.
 
 A l'expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans les matières qui sont du domaine législatif.
 
@@ -386,7 +423,13 @@ A l'expiration du délai mentionné au premier alinéa du présent article, les 
 
 L'initiative des lois appartient concurremment au Premier ministre et aux membres du Parlement.
 
-Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales et les projets de loi relatifs aux instances représentatives des Français établis hors de France sont soumis en premier lieu au Sénat.
+Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
+
+La présentation des projets de loi déposés devant l'Assemblée nationale ou le Sénat répond aux conditions fixées par une loi organique.
+
+Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférence des présidents de la première assemblée saisie constate que les règles fixées par la loi organique sont méconnues. En cas de désaccord entre la Conférence des présidents et le Gouvernement, le président de l'assemblée intéressée ou le Premier ministre peut saisir le Conseil constitutionnel qui statue dans un délai de huit jours.
+
+Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
 
 
 ## Article 40
@@ -417,7 +460,7 @@ Les projets et propositions pour lesquels une telle demande n'a pas été faite 
 
 ## Article 44
 
-Les membres du Parlement et le Gouvernement ont le droit d'amendement.
+Les membres du Parlement et le Gouvernement ont le droit d'amendement. Ce droit s'exerce en séance ou en commission selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.
 
 Après l'ouverture du débat, le Gouvernement peut s'opposer à l'examen de tout amendement qui n'a pas été antérieurement soumis à la commission.
 
@@ -460,8 +503,6 @@ Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas
 
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
 
-La Cour des comptes assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances.
-
 
 ## Article 47-1
 
@@ -473,7 +514,12 @@ Si le Parlement ne s'est pas prononcé dans un délai de cinquante jours, les di
 
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session et, pour chaque assemblée, au cours des semaines où elle a décidé de ne pas tenir séance, conformément au deuxième alinéa de l'article 28.
 
-La Cour des comptes assiste le Parlement et le Gouvernement dans le contrôle de l'application des lois de financement de la sécurité sociale.
+
+## Article 47-2
+
+La Cour des comptes assiste le Parlement dans le contrôle de l'action du Gouvernement. Elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
+
+Les comptes des administrations publiques sont réguliers et sincères. Ils donnent une image fidèle du résultat de leur gestion, de leur patrimoine et de leur situation financière.
 
 
 ## Article 48
@@ -550,7 +596,7 @@ Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur p
 
 ## Article 56
 
-Le Conseil constitutionnel comprend neuf membres, dont le mandat dure neuf ans et n'est pas renouvelable. Le Conseil constitutionnel se renouvelle par tiers tous les trois ans. Trois des membres sont nommés par le Président de la République, trois par le président de l'Assemblée nationale, trois par le président du Sénat.
+Le Conseil constitutionnel comprend neuf membres, dont le mandat dure neuf ans et n'est pas renouvelable. Le Conseil constitutionnel se renouvelle par tiers tous les trois ans. Trois des membres sont nommés par le Président de la République, trois par le président de l'Assemblée nationale, trois par le président du Sénat. La procédure prévue au dernier alinéa de l'article 13 est applicable à ces nominations. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée.
 
 En sus des neuf membres prévus ci-dessus, font de droit partie à vie du Conseil constitutionnel les anciens Présidents de la République.
 
@@ -581,7 +627,7 @@ Le Conseil constitutionnel veille à la régularité des opérations de référe
 
 ## Article 61
 
-Les lois organiques, avant leur promulgation, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
+Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
 
 Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le Président de l'Assemblée nationale, le Président du Sénat ou soixante députés ou soixante sénateurs.
 
@@ -590,9 +636,18 @@ Dans les cas prévus aux deux alinéas précédents, le Conseil constitutionnel 
 Dans ces mêmes cas, la saisine du Conseil constitutionnel suspend le délai de promulgation.
 
 
+## Article 61-1
+
+Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte aux droits et libertés que la Constitution garantit, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.
+
+Une loi organique détermine les conditions d'application du présent article.
+
+
 ## Article 62
 
-Une disposition déclarée inconstitutionnelle ne peut être promulguée ni mise en application.
+Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61 ne peut être promulguée ni mise en application.
+
+Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.
 
 Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
@@ -617,23 +672,27 @@ Les magistrats du siège sont inamovibles.
 
 ## Article 65
 
-Le Conseil supérieur de la magistrature est présidé par le Président de la République. Le ministre de la justice en est le vice-président de droit. Il peut suppléer le Président de la République.
+Le Conseil supérieur de la magistrature comprend une formation compétente à l'égard des magistrats du siège et une formation compétente à l'égard des magistrats du parquet.
 
-Le Conseil supérieur de la magistrature comprend deux formations, l'une compétente à l'égard des magistrats du siège, l'autre à l'égard des magistrats du parquet.
+La formation compétente à l'égard des magistrats du siège est présidée par le premier président de la Cour de cassation. Elle comprend, en outre, cinq magistrats du siège et un magistrat du parquet, un conseiller d'État désigné par le Conseil d'État, un avocat ainsi que six personnalités qualifiées qui n'appartiennent ni au Parlement, ni à l'ordre judiciaire, ni à l'ordre administratif. Le Président de la République, le Président de l'Assemblée nationale et le Président du Sénat désignent chacun deux personnalités qualifiées. La procédure prévue au dernier alinéa de l'article 13 est applicable aux nominations des personnalités qualifiées. Les nominations effectuées par le président de chaque assemblée du Parlement sont soumises au seul avis de la commission permanente compétente de l'assemblée intéressée.
 
-La formation compétente à l'égard des magistrats du siège comprend, outre le Président de la République et le garde des sceaux, cinq magistrats du siège et un magistrat du parquet, un conseiller d'Etat, désigné par le Conseil d'Etat, et trois personnalités n'appartenant ni au Parlement ni à l'ordre judiciaire, désignées respectivement par le Président de la République, le président de l'Assemblée nationale et le président du Sénat.
-
-La formation compétente à l'égard des magistrats du parquet comprend, outre le Président de la République et le garde des sceaux, cinq magistrats du parquet et un magistrat du siège, le conseiller d'Etat et les trois personnalités mentionnés à l'alinéa précédent.
+La formation compétente à l'égard des magistrats du parquet est présidée par le procureur général près la Cour de cassation. Elle comprend, en outre, cinq magistrats du parquet et un magistrat du siège, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa.
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
 
-Elle statue comme conseil de discipline des magistrats du siège. Elle est alors présidée par le premier président de la Cour de cassation.
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les nominations qui concernent les magistrats du parquet.
 
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis pour les nominations concernant les magistrats du parquet, à l'exception des emplois auxquels il est pourvu en conseil des ministres.
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. Elle comprend alors, outre les membres visés au deuxième alinéa, le magistrat du siège appartenant à la formation compétente à l'égard des magistrats du parquet.
 
-Elle donne son avis sur les sanctions disciplinaires concernant les magistrats du parquet. Elle est alors présidée par le procureur général près la Cour de cassation.
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
 
-Une loi organique détermine les conditions d'application du présent article.
+Le Conseil supérieur de la magistrature se réunit en formation plénière pour répondre aux demandes d'avis formulées par le Président de la République au titre de l'article 64. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le ministre de la justice. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
+
+Sauf en matière disciplinaire, le ministre de la justice peut participer aux séances des formations du Conseil supérieur de la magistrature.
+
+Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par une loi organique.
+
+La loi organique détermine les conditions d'application du présent article.
 
 
 ## Article 66
@@ -701,23 +760,40 @@ Une loi organique détermine les conditions d'application du présent article.
 Les dispositions du présent titre sont applicables aux faits commis avant son entrée en vigueur.
 
 
-# Titre XI : Le Conseil économique et social.
+# Titre XI : Le Conseil économique, social et environnemental
 
 ## Article 69
 
-Le Conseil économique et social, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de loi qui lui sont soumis.
+Le Conseil économique, social et environnemental, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de loi qui lui sont soumis.
 
-Un membre du Conseil économique et social peut être désigné par celui-ci pour exposer devant les assemblées parlementaires l'avis du Conseil sur les projets ou propositions qui lui ont été soumis.
+Un membre du Conseil économique, social et environnemental peut être désigné par celui-ci pour exposer devant les assemblées parlementaires l'avis du Conseil sur les projets ou propositions qui lui ont été soumis.
+
+Le Conseil économique, social et environnemental peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.
 
 
 ## Article 70
 
-Le Conseil économique et social peut être également consulté par le Gouvernement sur tout problème de caractère économique ou social. Tout plan ou tout projet de loi de programme à caractère économique ou social lui est soumis pour avis.
+Le Conseil économique, social et environnemental peut être consulté par le Gouvernement et le Parlement sur tout problème de caractère économique, social ou environnemental. Le Gouvernement peut également le consulter sur les projets de loi de programmation définissant les orientations pluriannuelles des finances publiques. Tout plan ou tout projet de loi de programmation à caractère économique, social ou environnemental lui est soumis pour avis.
 
 
 ## Article 71
 
-La composition du Conseil économique et social et ses règles de fonctionnement sont fixées par une loi organique.
+La composition du Conseil économique, social et environnemental, dont le nombre de membres ne peut excéder deux cent trente-trois, et ses règles de fonctionnement sont fixées par une loi organique.
+
+
+# Titre XI bis : Le Défenseur des droits
+
+## Article 71-1
+
+Le Défenseur des droits veille au respect des droits et libertés par les administrations de l'État, les collectivités territoriales, les établissements publics, ainsi que par tout organisme investi d'une mission de service public, ou à l'égard duquel la loi organique lui attribue des compétences.
+
+Il peut être saisi, dans les conditions prévues par la loi organique, par toute personne s'estimant lésée par le fonctionnement d'un service public ou d'un organisme visé au premier alinéa. Il peut se saisir d'office.
+
+La loi organique définit les attributions et les modalités d'intervention du Défenseur des droits. Elle détermine les conditions dans lesquelles il peut être assisté par un collège pour l'exercice de certaines de ses attributions.
+
+Le Défenseur des droits est nommé par le Président de la République pour un mandat de six ans non renouvelable, après application de la procédure prévue au dernier alinéa de l'article 13. Ses fonctions sont incompatibles avec celles de membre du Gouvernement et de membre du Parlement. Les autres incompatibilités sont fixées par la loi organique.
+
+Le Défenseur des droits rend compte de son activité au Président de la République et au Parlement.
 
 
 # Titre XII : Des collectivités territoriales
@@ -763,11 +839,11 @@ La loi prévoit des dispositifs de péréquation destinés à favoriser l'égali
 
 La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité.
 
-La Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna et la Polynésie française sont régis par l'article 73 pour les départements et les régions d'outre-mer et pour les collectivités territoriales créées en application du dernier alinéa de l'article 73, et par l'article 74 pour les autres collectivités.
+La Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna et la Polynésie française sont régis par l'article 73 pour les départements et les régions d'outre-mer et pour les collectivités territoriales créées en application du dernier alinéa de l'article 73, et par l'article 74 pour les autres collectivités.
 
 Le statut de la Nouvelle-Calédonie est régi par le titre XIII.
 
-La loi détermine le régime législatif et l'organisation particulière des Terres australes et antarctiques françaises.
+La loi détermine le régime législatif et l'organisation particulière des Terres australes et antarctiques françaises et de Clipperton.
 
 
 ## Article 72-4
@@ -781,9 +857,9 @@ Le Président de la République, sur proposition du Gouvernement pendant la dur�
 
 Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
 
-Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées par la loi.
+Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées selon le cas, par la loi ou par le règlement.
 
-Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées par la loi à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi.
+Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées, selon le cas, par la loi ou par le règlement, à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi ou du règlement.
 
 Ces règles ne peuvent porter sur la nationalité, les droits civiques, les garanties des libertés publiques, l'état et la capacité des personnes, l'organisation de la justice, le droit pénal, la procédure pénale, la politique étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et les changes, ainsi que le droit électoral. Cette énumération pourra être précisée et complétée par une loi organique.
 
@@ -823,7 +899,7 @@ Les autres modalités de l'organisation particulière des collectivités relevan
 
 ## Article 74-1
 
-Dans les collectivités d'outre-mer visées à l'article 74 et en Nouvelle-Calédonie, le Gouvernement peut, dans les matières qui demeurent de la compétence de l'Etat, étendre par ordonnances, avec les adaptations nécessaires, les dispositions de nature législative en vigueur en métropole, sous réserve que la loi n'ait pas expressément exclu, pour les dispositions en cause, le recours à cette procédure.
+Dans les collectivités d'outre-mer visées à l'article 74 et en Nouvelle-Calédonie, le Gouvernement peut, par ordonnances, dans les matières qui demeurent de la compétence de l'État, étendre, avec les adaptations nécessaires, les dispositions de nature législative en vigueur en métropole ou adapter les dispositions de nature législative en vigueur à l'organisation particulière de la collectivité concernée, sous réserve que la loi n'ait pas expressément exclu, pour les dispositions en cause, le recours à cette procédure.
 
 Les ordonnances sont prises en conseil des ministres après avis des assemblées délibérantes intéressées et du Conseil d'Etat. Elles entrent en vigueur dès leur publication. Elles deviennent caduques en l'absence de ratification par le Parlement dans le délai de dix-huit mois suivant cette publication.
 
@@ -831,6 +907,11 @@ Les ordonnances sont prises en conseil des ministres après avis des assemblées
 ## Article 75
 
 Les citoyens de la République qui n'ont pas le statut civil de droit commun, seul visé à l'article 34, conservent leur statut personnel tant qu'ils n'y ont pas renoncé.
+
+
+## Article 75-1
+
+Les langues régionales appartiennent au patrimoine de la France.
 
 
 # Titre XIII : Dispositions transitoires relatives à la Nouvelle-Calédonie
@@ -861,7 +942,12 @@ Les autres mesures nécessaires à la mise en oeuvre de l'accord mentionné à l
 Pour la définition du corps électoral appelé à élire les membres des assemblées délibérantes de la Nouvelle-Calédonie et des provinces, le tableau auquel se réfèrent l'accord mentionné à l'article 76 et les articles 188 et 189 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie est le tableau dressé à l'occasion du scrutin prévu audit article 76 et comprenant les personnes non admises à y participer.
 
 
-# Titre XIV : Des accords d'association.
+# Titre XIV :  De la francophonie et des accords d'association
+
+## Article 87
+
+La République participe au développement de la solidarité et de la coopération entre les États et les peuples ayant le français en partage.
+
 
 ## Article 88
 
@@ -876,7 +962,7 @@ La République peut conclure des accords avec des Etats qui désirent s'associer
 
 L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier ministre et aux membres du Parlement.
 
-Le projet ou la proposition de révision doit être voté par les deux assemblées en termes identiques. La révision est définitive après avoir été approuvée par référendum.
+Le projet ou la proposition de révision doit être examiné dans les conditions de délai fixées au troisième alinéa de l'article 42 et voté par les deux assemblées en termes identiques. La révision est définitive après avoir été approuvée par référendum.
 
 Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrès ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrès est celui de l'Assemblée nationale.
 

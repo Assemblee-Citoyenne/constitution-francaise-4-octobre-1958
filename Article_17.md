@@ -1,1 +1,1 @@
-Le Président de la République a le droit de faire grâce.
+Le Président de la République a le droit de faire grâce à titre individuel.

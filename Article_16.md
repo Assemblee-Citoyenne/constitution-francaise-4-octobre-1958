@@ -7,3 +7,5 @@ Ces mesures doivent être inspirées par la volonté d'assurer aux pouvoirs publ
 Le Parlement se réunit de plein droit.
 
 L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs exceptionnels.
+
+Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.

@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 5 octobre 1958
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19581005)
+- Date de consolidation : 8 juin 1960
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19600608)
 
 
 # Article PREAMBULE
@@ -739,6 +739,26 @@ Une loi organique arrête sa composition et fixe ses règles de fonctionnement.
 Une cour arbitrale de la Communauté statue sur les litiges survenus entre les membres de la Communauté.
 
 Sa composition et sa compétence sont fixées par une loi organique.
+
+
+## Article 85
+
+Par dérogation à la procédure prévue à l'article 89, les dispositions du présent titre qui concernent le fonctionnement des institutions communes sont révisées par des lois votées dans les mêmes termes par le Parlement de la République et par le Sénat de la Communauté.
+
+Les dispositions du présent titre peuvent être également révisées par accords conclus entre tous les Etats de la Communauté ; les dispositions nouvelles sont mises en vigueur dans les conditions requises par la Constitution de chaque Etat.
+
+
+## Article 86
+
+La transformation du statut d'un Etat membre de la Communauté peut être demandée soit par la République, soit par une résolution de l'assembLée législative de l'Etat intéressé confirmée par un référendum local dont l'organisation et le contr&lt;CB&gt;le sont assurés par les institutions de la Communauté. Les modalités de cette transformation sont déterminées par un accord approuvé par le Parlement de la République et l'assemblée législative intéressée.
+
+Dans les mêmes conditions, un Etat membre de la Communauté peut devenir indépendant. Il cesse de ce fait d'appartenir à la Communauté.
+
+Un Etat membre de la Communauté peut également, par voie d'accords, devenir indépendant sans cesser de ce fait d'appartenir à la Communauté.
+
+Un Etat indépendant non membre de la Communauté peut, par voie d'accords, adhérer à la Communauté sans cesser d'être indépendant.
+
+La situation de ces Etats au sein de la Communauté est déterminée par accords conclus à cet effet, notamment par les accords visés aux alinéas précédents ainsi que, le cas échéant, les accords prévus au deuxième alinéa de l'article 85.
 
 
 ## Article 87

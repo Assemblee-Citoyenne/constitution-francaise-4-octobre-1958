@@ -1,7 +1,7 @@
 Constitution de 1958
 
-- Date de consolidation : 8 juin 1960
-- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19600608)
+- Date de consolidation : 9 novembre 1962
+- [Lien permanent Légifrance](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=JORFTEXT000000571356&dateTexte=19621109)
 
 
 # Article PREAMBULE
@@ -60,42 +60,22 @@ Il est le garant de l'indépendance nationale, de l'intégrité du territoire, d
 
 ## Article 6
 
-Le Président de la République est élu pour sept ans par un collège électoral comprenant les membres du Parlement, des conseils généraux et des assemblées des territoires d'outre-mer, ainsi que les représentants élus des conseils municipaux.
-
-Ces représentants sont :
-
-- le maire pour les communes de moins de 1000 habitants ;
-
-- le maire et le premier adjoint pour les communes de 1000 à 2000 habitants ;
-
-- le maire, le premier adjoint et un conseiller municipal pris dans l'ordre du tableau pour les communes de 2001 à 2500 habitants :
-
-- le maire et les deux premiers adjoints pour les communes de 2501 à 3000 habitants ;
-
-- le maire, les deux premiers adjoints et trois conseillers municipaux pris dans l'ordre du tableau pour les communes de 3001 à 6000 habitants ;
-
-- le maire, les deux premiers adjoints et six conseillers municipaux pris dans l'ordre du tableau pour les communes de 6001 à 9000 habitants ;
-
-- tous les conseillers municipaux pour les communes de plus de 9000 habitants ;
-
-- en outre, pour les communes de plus de 30000 habitants, des délégués désignés par le conseil municipal à raison de un pour 1000 habitants en sus de 30000.
-
-Dans les territoires d'outre-mer de la République, font aussi partie du collège électoral les représentants élus des conseils des collectivités administratives dans les conditions déterminées par une loi organique.
-
-La participation des Etats membres de la Communauté au collège électoral du Président de la République est fixée par accord entre la République et les Etats membres de la Communauté.
+Le Président de la République est élu pour sept ans au suffrage universel direct.
 
 Les modalités d'application du présent article sont fixées par une loi organique.
 
 
 ## Article 7
 
-L'élection du Président de la République a lieu à la majorité absolue au premier tour. Si celle-ci n'est pas obtenue, le Président de la République est élu au second tour à la majorité relative.
+Le Président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour, il est procédé, le deuxième dimanche suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant aprés retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
 
 Le scrutin est ouvert sur convocation du Gouvernement.
 
-L'élection du nouveau Président a lieu vingt jours au moins et cinquante jours au plus avant l'expiration des pouvoirs du Président en exercice.
+L'élection du nouveau Président a lieu vingt jours au moins et trente-cinq jours au plus avant l'expiration des pouvoirs du Président en exercice.
 
-En cas de vacance de la Présidence de la République pour quelque cause que ce soit, ou d'empêchement constaté par le Conseil constitutionnel saisi par le Gouvernement et statuant à la majorité absolue de ses membres, les fonctions du Président de la République, à l'exception de celles prévues aux articles 11 et 12 ci-dessous, sont provisoirement exercées par le Président du Sénat. En cas de vacance ou lorsque l'empêchement est déclaré définitif par le Conseil constitutionnel, le scrutin pour l'élection du nouveau Président a lieu, sauf cas de force majeure constaté par le Conseil constitutionnel, vingt jours au moins et cinquante jours au plus aprés l'ouverture de la vacance ou de la déclaration du caractère définitif de l'empêchement.
+En cas de vacance de la Présidence de la République pour quelque cause que ce soit, ou d'empêchement constaté par le Conseil constitutionnel saisi par le Gouvernement et statuant à la majorité absolue de ses membres, les fonctions du Président de la République, à l'exception de celles prévues aux articles 11 et 12 ci-dessous, sont provisoirement exercées par le président du Sénat et, si celui-ci est à son tour empêché d'exercer ses fonctions, par le Gouvernement.
+
+En cas de vacance ou lorsque l'empêchement est déclaré définitif par le Conseil constitutionnel, le scrutin pour l'élection du nouveau Président a lieu, sauf cas de force majeure constaté par le Conseil constitutionnel, vingt jours au moins et trente-cinq jours au plus aprés l'ouverture de la vacance ou la déclaration du caractère définitif de l'empêchement.
 
 
 ## Article 8
